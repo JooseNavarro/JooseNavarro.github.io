@@ -14,10 +14,9 @@ Necesitamos Nodejs. vamos con el npm (node package manager).
 
 ```
 
- * [Docs Nodejs](http://nodejs.org/documentation/) - [[website ](http://nodejs.org/)]
- * [Docs Reacjs](https://facebook.github.io/react/docs/hello-world.html) - [[website ](https://facebook.github.io/react/)] -        [[other docs] (https://carlosazaustre.es/blog/browserify-desarrollando-tu-frontend-como-en-node-js/)]
- * [Docs Browserify](http://browserify.org/) - [[website ](https://github.com/substack/node-browserify#usage)]
-
+  * [Docs Nodejs](http://nodejs.org/documentation/) - [[ website ](http://nodejs.org/)]
+  * [Docs Reacjs](https://facebook.github.io/react/docs/hello-world.html) - [[ website ](https://facebook.github.io/react/)] -   * [Docs Browserify](http://browserify.org/) - [[ website ](https://github.com/substack/node-browserify#usage)]
+      [[other docs] (https://carlosazaustre.es/blog/browserify-desarrollando-tu-frontend-como-en-node-js/)]
 
 ### CLONE
 ```
