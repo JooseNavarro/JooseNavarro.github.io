@@ -1,9 +1,12 @@
-# ReactjsOn OnPlusItem
-Exploraremos Reactjs
+# ReactjsOn 1.0.0
+  Caminando junto a Reacjs. 
+  
+  ## Exploraremos Reactjs y sus componentes. Going!
 
 ## Vamos allá 
 ```
-### Necesitamos Nodejs. vamos con npm (node package manager).
+1- Necesitamos Nodejs. vamos con el npm (node package manager).
+2-
 
 
 ```
