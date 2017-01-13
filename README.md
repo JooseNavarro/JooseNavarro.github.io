@@ -7,16 +7,16 @@
 ```
 Necesitamos Nodejs. vamos con el npm (node package manager).
 1- npm install --save react react-dom babelify
-    - react-dom nos sirve para hacer la traducions hacia el dom
-    - babelify nos traduce todo nuestro codigo a la version que soporta todo los navegadores.
+   - react-dom nos sirve para hacer la traducions hacia el dom
+   - babelify nos traduce todo nuestro codigo a la version que soporta todo los navegadores.
 2- npm install -g browserify
-    - Nos permite escribir código JavaScript del cliente, como si estuviésemos programando en Node.js  
+   - Nos permite escribir código JavaScript del cliente, como si estuviésemos programando en Node.js  
 
 ```
 
  * [Docs Nodejs](http://nodejs.org/documentation/) - [[website ](http://nodejs.org/)]
- * [Docs Reacjs](https://facebook.github.io/react/docs/hello-world.html) - [[website ](https://facebook.github.io/react/)] -[[other docs] (https://carlosazaustre.es/blog/browserify-desarrollando-tu-frontend-como-en-node-js/)]
- *[Docs Browserify](http://browserify.org/) - [[website ](https://github.com/substack/node-browserify#usage)]
+ * [Docs Reacjs](https://facebook.github.io/react/docs/hello-world.html) - [[website ](https://facebook.github.io/react/)] -        [[other docs] (https://carlosazaustre.es/blog/browserify-desarrollando-tu-frontend-como-en-node-js/)]
+ * [Docs Browserify](http://browserify.org/) - [[website ](https://github.com/substack/node-browserify#usage)]
 
 
 ### CLONE
