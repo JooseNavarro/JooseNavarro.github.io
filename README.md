@@ -1,7 +1,7 @@
 # ReactjsOn 1.0.0
   Caminando junto a Reacjs. 
   
-## Exploraremos Reactjs y sus componentes. Going!
+### Exploraremos Reactjs y sus componentes. Going!
 
 ## Vamos allá 
 ```
