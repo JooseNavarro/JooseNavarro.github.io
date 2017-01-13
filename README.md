@@ -10,11 +10,14 @@ Necesitamos Nodejs. vamos con el npm (node package manager).
     - react-dom nos sirve para hacer la traducions hacia el dom
     - babelify nos traduce todo nuestro codigo a la version que soporta todo los navegadores.
 2- npm install -g browserify
-    - Nos permite escribir código JavaScript del cliente, como si estuviésemos programando en Node.js   * [Docs Nodejs](http://nodejs.org/documentation/) - [[website repo](http://nodejs.org/)]
-
-
+    - Nos permite escribir código JavaScript del cliente, como si estuviésemos programando en Node.js  
 
 ```
+
+ * [Docs Nodejs](http://nodejs.org/documentation/) - [[website repo](http://nodejs.org/)]
+ * [Docs Nodejs](http://nodejs.org/documentation/) - [[website repo](https://facebook.github.io/react/)] -[[other docs] (https://facebook.github.io/react/docs/hello-world.html)]
+
+
 ### CLONE
 ```
 git clone git@github.com:JooseNavarro/reactjsOn.git
