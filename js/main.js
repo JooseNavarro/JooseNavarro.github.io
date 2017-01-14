@@ -13,6 +13,10 @@ ReactDOM.render(
 
 //JSX
 const Contenido = React.createClass({
+  clonar : function(){
+
+  }
+  //Funcion render
   render : ()=>{
     return(
       <p>
