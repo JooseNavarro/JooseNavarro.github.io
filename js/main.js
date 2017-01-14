@@ -29,6 +29,16 @@ const Contenido = React.createClass({
   )}
 })
 
+const Autor = React.createClass({
+  //Funcion render
+  render : ()=>{
+    return(
+      <p>
+        Jose Navarro
+      </p>
+  )}
+})
+
 ReactDOM.render(
   //La etiqueta que vamos a enviar al html
   <div>
