@@ -1,0 +1,30 @@
+{
+  "name": "reactjshome",
+  "version": "1.0.0",
+  "description": "Caminando con Reactjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JooseNavarro/reactjsOn.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Reactjs",
+    "Nodejs"
+  ],
+  "author": "Jose Navarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JooseNavarro/reactjsOn"
+  },
+  "homepage": "https://github.com/JooseNavarro/reactjsOn",
+  "dependencies": {
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}

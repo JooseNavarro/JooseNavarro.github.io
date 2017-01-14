@@ -1,0 +1,31 @@
+body{
+  margin: 0
+}
+h1,h4{
+  text-align: center;
+}
+.noFloat{
+  margin: 0 auto;
+  display: block;
+  float: none;
+}
+
+#descrip{
+  position: absolute;
+  bottom: 0;
+  right: 10px
+}
+
+img {
+    height: 18em;
+    margin: 0 auto;
+    display: block;
+    float: none;
+    margin-top: 3em
+}
+a,
+a:hover,
+a:focus,
+a:active{
+  color: #00d8ff
+}
