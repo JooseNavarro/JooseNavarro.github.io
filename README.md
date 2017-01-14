@@ -7,7 +7,7 @@
 ```
 Necesitamos Nodejs. vamos con el npm (node package manager).
 
-1- npm install --save react react-dom babelify
+1- npm install --save react react-dom babelify babel-preset-react
   - react-dom nos sirve para interactuar con dom
   - babelify nos traduce todo nuestro codigo a la version que soporta todo los navegadores.
   
