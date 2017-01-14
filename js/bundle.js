@@ -19,6 +19,7 @@ document.getElementById('conten'));
 const Contenido = React.createClass({
   displayName: 'Contenido',
 
+  //Funcion render
   render: () => {
     return React.createElement(
       'p',
@@ -30,7 +31,11 @@ const Contenido = React.createClass({
 
 ReactDOM.render(
 //La etiqueta que vamos a enviar al html
-React.createElement(Contenido, null),
+React.createElement(
+  'div',
+  null,
+  React.createElement(Contenido, null)
+),
 //Con document.getElementById  lo enviamos a nuestro #contenPool
 document.getElementById('contenPool'));
 

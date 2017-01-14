@@ -13,9 +13,6 @@ ReactDOM.render(
 
 //JSX
 const Contenido = React.createClass({
-  clonar : function(){
-
-  }
   //Funcion render
   render : ()=>{
     return(
@@ -34,7 +31,9 @@ const Contenido = React.createClass({
 
 ReactDOM.render(
   //La etiqueta que vamos a enviar al html
-  <Contenido />,
+  <div>
+    <Contenido />
+  </div>,
   //Con document.getElementById  lo enviamos a nuestro #contenPool
   document.getElementById('contenPool')
 );
